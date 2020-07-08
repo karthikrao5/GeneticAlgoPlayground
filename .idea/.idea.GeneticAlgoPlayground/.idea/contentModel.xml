@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Behavior.cs" t="Include" />
+          <e p="Boundaries.cs" t="Include" />
         </e>
       </e>
       <e p="GeneticAlgoPlayground.sln" t="IncludeFlat" />
